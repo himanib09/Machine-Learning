@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning-Foundations
 Basic implementation of Regression, Classification, Clustering and Deep Learning models using Turicreate
 
 1. Simple Regression model for House Price Prediction using Home_data.sframe
